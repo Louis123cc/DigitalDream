@@ -1,0 +1,1 @@
+e finally block lets you execute code, regardless of the result of the try- and exceNow the file has a new beginingNow the file has a new beginingNow the file has a new beginingthis is a text file used only for python class
